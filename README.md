@@ -29,7 +29,7 @@ Right now I split my time between research code, coursework, and whatever side p
 ```text
 School        UCF, Computer Science
 Research      Bioinformatics lab
-Interests     Systems, ML, graphics, good tooling
+Interests     Systems, ML, GPUs, Impactful Solutions, Fast Code, good tooling
 Also into     Hackathons, game dev, automating small annoyances
 Looking for   SWE internships and research positions
 ```
