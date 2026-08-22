@@ -14,7 +14,7 @@
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=6366F1&center=true&vCenter=true&width=560&lines=Building+things+I+wish+existed;Curious+about+how+systems+actually+work;Always+halfway+through+a+side+project" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=6366F1&center=true&vCenter=true&width=560&lines=CS+student+at+UCF;I+learn+by+building+things;Open+to+internships+and+research" alt="typing" />
 
 </div>
 
@@ -22,23 +22,21 @@
 
 ## About
 
-I'm a Computer Science student at the University of Central Florida who mostly learns by building. I like taking an idea from "that would be cool" to something that actually runs, and I care a lot about the part in the middle where you find out how it really works.
+I study Computer Science at UCF. Most of what I actually know came from building something, breaking it, and then figuring out why it broke.
+
+Right now I split my time between research code, coursework, and whatever side project I got curious about that week. I like systems programming and machine learning, and I'll pick the readable solution over the clever one almost every time.
 
 ```text
-Studying     Computer Science at UCF
-Working on   research, side projects, and whatever caught my attention this week
-Enjoying     systems programming, machine learning, graphics, and good tooling
-Also         hackathons, game dev experiments, and automating small annoyances
+School        UCF, Computer Science
+Research      Bioinformatics lab
+Interests     Systems, ML, graphics, good tooling
+Also into     Hackathons, game dev, automating small annoyances
+Looking for   SWE internships and research positions
 ```
-
-- I like problems where the answer isn't in the docs yet
-- I enjoy performance work, but I enjoy readable code more
-- I'm happiest when a project teaches me something I can reuse everywhere else
-- Open to internships, research, and collaborating on interesting things
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:8B5CF6,100:0EA5E9&height=2&section=header" width="100%" alt="" />
 
-## Tools I Reach For
+## What I Use
 
 <div align="center">
 
@@ -46,6 +44,7 @@ Also         hackathons, game dev experiments, and automating small annoyances
 <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" />
 <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
 <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
 <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
 <img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" />
 
@@ -53,7 +52,6 @@ Also         hackathons, game dev experiments, and automating small annoyances
 
 <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
 <img src="https://img.shields.io/badge/CUDA-0D1117?style=flat-square&logo=nvidia&logoColor=76B900" alt="CUDA" />
-<img src="https://img.shields.io/badge/OpenGL-0D1117?style=flat-square&logo=opengl&logoColor=5586A4" alt="OpenGL" />
 <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
 <img src="https://img.shields.io/badge/Unity-0D1117?style=flat-square&logo=unity&logoColor=FFFFFF" alt="Unity" />
@@ -70,66 +68,64 @@ Also         hackathons, game dev experiments, and automating small annoyances
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:8B5CF6,100:0EA5E9&height=2&section=header" width="100%" alt="" />
 
-## Things I've Built
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [cuda-nbody-simulator](https://github.com/says1117/cuda-nbody-simulator)
-
-A GPU-accelerated N-body gravity simulation rendering thousands of interacting bodies in real time. Started as a physics curiosity, turned into a lesson in making things fast.
-
-`CUDA` `OpenGL` `C++`
-
-</td>
-<td width="50%" valign="top">
-
 ### [ASL-to-TTS](https://github.com/says1117/ASL-to-TTS)
 
-Turning American Sign Language into spoken output. A project about accessibility, and about how messy real-world input data can be.
-
-`Python` `Computer Vision`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Remote-Agent-Orchestration](https://github.com/says1117/Remote-Agent-Orchestration)
-
-Coordinating agents across machines. Equal parts distributed systems problem and experiment in what these tools can actually do.
+Reads American Sign Language and speaks it out loud. Most of the effort went into getting usable data, not the model.
 
 `Python`
 
 </td>
 <td width="50%" valign="top">
 
-### [Bioinformatics-Lab-UCF](https://github.com/says1117/Bioinformatics-Lab-UCF)
+### [AutoBot](https://github.com/says1117/AutoBot)
 
-Research code from the lab, where computer science meets biology and the datasets get enormous.
-
-`C++`
+TODO: replace this line with one sentence about what AutoBot does.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [NextPlay-Games](https://github.com/says1117/NextPlay-Games)
+### [Bioinformatics-Lab-UCF](https://github.com/says1117/Bioinformatics-Lab-UCF)
 
-A full application built for a software engineering internship assessment, shipped end to end.
+Research code from the lab I work in at UCF. Large datasets, C++, and a lot of profiling.
 
-`TypeScript`
+`C++`
 
 </td>
 <td width="50%" valign="top">
 
-### [personal_website](https://github.com/says1117/personal_website)
+### [Remote-Agent-Orchestration](https://github.com/says1117/Remote-Agent-Orchestration)
 
-My corner of the internet, rebuilt whenever I learn something new worth trying.
+Runs agents across multiple machines and keeps them in sync. Started as an excuse to learn distributed systems properly.
 
-`JavaScript` `React`
+`Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [NVIDIA/raft](https://github.com/NVIDIA/raft)
+
+CUDA-accelerated algorithms and primitives for machine learning and information retrieval, used as building blocks across the RAPIDS stack.
+
+`CUDA` `Contributor`
+
+</td>
+<td width="50%" valign="top">
+
+### [3d_Model_Viewer](https://github.com/KahlenHernani/3d_Model_Viewer)
+
+A 3D model viewer written in C#, built together with [@KahlenHernani](https://github.com/KahlenHernani).
+
+`C#` `Contributor`
 
 </td>
 </tr>
@@ -143,16 +139,12 @@ My corner of the internet, rebuilt whenever I learn something new worth trying.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:8B5CF6,100:0EA5E9&height=2&section=header" width="100%" alt="" />
 
-## By The Numbers
+## Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=says1117&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=0EA5E9&text_color=808080&include_all_commits=true&rank_icon=github" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=says1117&layout=compact&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=808080&langs_count=8&exclude_repo=kubernetes,pytorch,workerd,cuml,raft" height="165" alt="Top languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=says1117&hide_border=true&background=00000000&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=808080&currStreakNum=808080&sideNums=808080&dates=808080" height="165" alt="Contribution streak" />
+<img src="https://github-readme-stats-six-vert-49.vercel.app/api?username=says1117&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=0EA5E9&text_color=808080&include_all_commits=true&rank_icon=github" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats-six-vert-49.vercel.app/api/top-langs/?username=says1117&layout=compact&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=808080&langs_count=8&exclude_repo=kubernetes,pytorch,workerd,cuml,raft" height="165" alt="Top languages" />
 
 <br /><br />
 
@@ -164,9 +156,9 @@ My corner of the internet, rebuilt whenever I learn something new worth trying.
 
 <div align="center">
 
-### Say Hello
+### Contact
 
-Always up for a conversation about a project, a paper, or a problem you're stuck on.
+Happy to talk about a project, a paper, or a problem you're stuck on.
 
 <a href="https://syodicesmith.com/">syodicesmith.com</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
