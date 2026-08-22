@@ -85,7 +85,9 @@ Reads American Sign Language and speaks it out loud. Most of the effort went int
 
 ### [AutoBot](https://github.com/says1117/AutoBot)
 
-TODO: replace this line with one sentence about what AutoBot does.
+A robot control stack in NVIDIA Isaac Sim. An LLM plans the task, PPO trains the skills, and a fused CUDA/C++ reward kernel keeps policy training real time. I distilled the trained policies down into a CNN vision policy and hit 78% success across 100 randomized layouts in my own eval harness.
+
+`CUDA` `C++` `Python`
 
 </td>
 </tr>
