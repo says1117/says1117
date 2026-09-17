@@ -24,14 +24,13 @@
 
 I study Computer Science at UCF. Most of what I actually know came from building something, breaking it, and then figuring out why it broke.
 
-Right now I split my time between research code, coursework, and whatever side project I got curious about that week. I like systems programming and machine learning, and I'll pick the readable solution over the clever one almost every time.
+Right now I split my time between coursework and whatever side project I got curious about that week. I like systems programming and machine learning, and I'll pick the readable solution over the clever one almost every time.
 
 ```text
 School        UCF, Computer Science
-Research      Bioinformatics lab
 Interests     Systems, ML, GPUs, Impactful Solutions, Fast Code, good tooling
 Also into     Hackathons, game dev, automating small annoyances
-Looking for   SWE internships and research positions
+Looking for   SWE internships
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:8B5CF6,100:0EA5E9&height=2&section=header" width="100%" alt="" />
@@ -94,15 +93,6 @@ A robot control stack in NVIDIA Isaac Sim. An LLM plans the task, PPO trains the
 <tr>
 <td width="50%" valign="top">
 
-### [Bioinformatics-Lab-UCF](https://github.com/says1117/Bioinformatics-Lab-UCF)
-
-Research code from the lab I work in at UCF. Large datasets, C++, and a lot of profiling.
-
-`C++`
-
-</td>
-<td width="50%" valign="top">
-
 ### [Remote-Agent-Orchestration](https://github.com/says1117/Remote-Agent-Orchestration)
 
 Runs agents across multiple machines and keeps them in sync. Started as an excuse to learn distributed systems properly.
@@ -110,8 +100,6 @@ Runs agents across multiple machines and keeps them in sync. Started as an excus
 `Python`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [NVIDIA/raft](https://github.com/NVIDIA/raft)
@@ -121,6 +109,8 @@ CUDA-accelerated algorithms and primitives for machine learning and information 
 `CUDA` `Contributor`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [3d_Model_Viewer](https://github.com/KahlenHernani/3d_Model_Viewer)
@@ -128,6 +118,15 @@ CUDA-accelerated algorithms and primitives for machine learning and information 
 A 3D model viewer written in C#, built together with [@KahlenHernani](https://github.com/KahlenHernani).
 
 `C#` `Contributor`
+
+</td>
+<td width="50%" valign="top">
+
+### [cuda-nbody-simulator](https://github.com/says1117/cuda-nbody-simulator)
+
+Thousands of bodies pulling on each other, simulated on the GPU and drawn in real time. I learned more about memory access patterns writing this than in any class.
+
+`CUDA` `OpenGL` `C++`
 
 </td>
 </tr>
@@ -150,7 +149,7 @@ A 3D model viewer written in C#, built together with [@KahlenHernani](https://gi
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=says1117&bg_color=00000000&color=808080&line=6366F1&point=0EA5E9&area=true&area_color=8B5CF6&hide_border=true&hide_title=true" width="95%" alt="Contribution activity" />
+<img src="https://github-readme-activity-graph-lemon-nine.vercel.app/graph?username=says1117&bg_color=00000000&color=808080&line=6366F1&point=0EA5E9&area=true&area_color=8B5CF6&hide_border=true&hide_title=true" width="95%" alt="Contribution activity" />
 
 </div>
 
